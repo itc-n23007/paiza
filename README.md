@@ -1,3 +1,3 @@
 # paiza
 
-![codegirl](paiza/codegirl.png)
+![codegirl](codegirl.png)
