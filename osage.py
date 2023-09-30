@@ -1,11 +1,13 @@
-def osage(n,m,times):
-        total_time = 0
+def osage(n, m):
+    total_time = 0
     for i in range(m):
-        total_time += times[i]
+        total_time += int(input())
         if total_time > n * 60:
             return i
     return "OK"
 
-n,m,times=map(int,input().split())
-result=osage(n,m,times)
+
+n = int(input())
+m = int(input())
+result = osage(n, m)
 print(result)

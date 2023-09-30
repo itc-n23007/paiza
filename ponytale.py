@@ -6,3 +6,8 @@ def ponytale(des):
     if count >= 3:
         print("OK")
     print("NG")
+
+
+des = int(input())
+result = ponytale(des)
+print(result)
