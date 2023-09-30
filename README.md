@@ -6,9 +6,9 @@
 #恋するハッカソン
 
 
-[ロング](longhair,py)
-[おさげ](osage.py)
-[ポニテ](panytale.py)
-[ショート](shorthair.py)
-[ツイン](twintale.py)
-[目](eye.py)
+[ロング](hakkason/longhair,py)
+[おさげ](hakkason/osage.py)
+[ポニテ](hakkason/panytale.py)
+[ショート](hakkason/shorthair.py)
+[ツイン](hakkason/twintale.py)
+[目](hakkason/eye.py)
