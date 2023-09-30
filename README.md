@@ -12,3 +12,5 @@
 [ショート](hakkason/shorthair.py)
 [ツイン](hakkason/twintale.py)
 [目](hakkason/eye.py)
+[眼帯](hakkason/gantai.py)
+[猫耳](hakkason/nekomimi.py)
