@@ -6,7 +6,7 @@
 #恋するハッカソン
 
 
-[ロング](hakkason/longhair,py)
+[ロング](hakkason/longhair.py)
 [おさげ](hakkason/osage.py)
 [ポニテ](hakkason/panytale.py)
 [ショート](hakkason/shorthair.py)
